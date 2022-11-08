@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>Downstream-corelogic</finalName
+    <finalName>Downstream-corelogic</finalName>
   </build>
 </project>
